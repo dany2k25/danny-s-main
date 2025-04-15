@@ -6,7 +6,7 @@ const AboutPage = () => {
     <Container className="max-w-6xl lg:px-8 py-12">
       <h1 className="text-3xl font-bold mb-6">About Danny's Shop</h1>
       <p className="mb-4">
-      Danny's Shop is a cutting-edge technology company dedicated to providing
+      Danny&apos; Shop is a cutting-edge technology company dedicated to providing
         innovative solutions for modern businesses. Founded in 2020, we&apos;ve
         quickly established ourselves as a leader in digital transformation and
         software development.

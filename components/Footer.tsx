@@ -14,9 +14,9 @@ const Footer = () => {
         <FooterTop />
         <div className="py-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="space-y-4">
-            <Logo>Danny's Shop</Logo>
+            <Logo>Danny&apos;s Shop</Logo>
             <p className="text-gray-600 text-sm">
-            At Danny's Shop, we’re more than just t-shirts — we’re a tribute to the throttle junkies, gearheads, and Sunday cruisers.
+            At Danny&apos;s Shop, we’re more than just t-shirts — we’re a tribute to the throttle junkies, gearheads, and Sunday cruisers.
             Fueled by a love for horsepower, late-night drives, and the unmistakable roar of an engine, our apparel brings automotive culture to your everyday style.
       
             </p>

@@ -2,8 +2,6 @@ import React from "react";
 import Container from "./Container";
 import FooterTop from "./FooterTop";
 import Logo from "./Logo";
-import SocialMedia from "./SocialMedia";
-import { Input } from "./ui/input";
 import { categoriesData, quickLinksData } from "@/constants";
 import Link from "next/link";
 

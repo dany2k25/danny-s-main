@@ -9,14 +9,14 @@ const TermsPage = () => {
         <section>
           <h2 className="text-xl font-semibold mb-2">1. Acceptance of Terms</h2>
           <p>
-            By accessing and using Danny&apos;s's Shop&apos;s services, you agree to be bound
+            By accessing and using Danny&apos;s Shop&apos;s services, you agree to be bound
             by these Terms and Conditions.
           </p>
         </section>
         <section>
           <h2 className="text-xl font-semibold mb-2">2. Use of Services</h2>
           <p>
-            You agree to use Danny&apos;s's Shop&apos;s services only for lawful purposes and
+            You agree to use Danny&apos;s Shop&apos;s services only for lawful purposes and
             in accordance with these Terms and Conditions.
           </p>
         </section>
